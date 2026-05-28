@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    radial-gradient(circle at top right, rgba(255,115,0,0.15), transparent 30%),
+    #0B0B0B;
+
+  color: white;
+  font-family: Inter, sans-serif;
+}
